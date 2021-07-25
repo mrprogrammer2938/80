@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # This Programm Write by Mr.nope
-# 80 v1.0
+# 80 v1.4.0
 import os, time, sys, platform, subprocess
 try:
    from colorama import Fore,init
